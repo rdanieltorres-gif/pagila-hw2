@@ -1,3 +1,6 @@
+![Build Status]
+(https://github.com/rdanieltorres-gif/pagila-hw2/tree/master/.github/workflows/tests.yml/badge.svg)
+
 # pagila-hw2
 
 This is the second SQL homework in CMC's CSCI143: Big Data class.
