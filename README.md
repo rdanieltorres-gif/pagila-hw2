@@ -1,7 +1,6 @@
-![Build Status]
-(https://github.com/rdanieltorres-gif/pagila-hw2/tree/master/.github/workflows/tests.yml/badge.svg)
-
 # pagila-hw2
+[![](https://github.com/rdanieltorres-gif/pagila-hw2/actions/workflows/tests.yml/badge.svg)]
+(https://github.com/rdanieltorres-gif/pagila-hw2/actions?query=workflow%3Atests)
 
 This is the second SQL homework in CMC's CSCI143: Big Data class.
 
